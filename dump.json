@@ -1,9 +1,10 @@
 {
-  "name": "My Roblox Game",
+  "name": "Place's MKZ_Catal0g",
   "placeId": 10489914624,
+  "credit": "MKZMinh",
   "assets": {
     "76692584578112": {
-      "Name": "Miku Plushie",
+      "Name": "Custom 3D Item",
       "ClassName": "MeshPart"
     }
   }
